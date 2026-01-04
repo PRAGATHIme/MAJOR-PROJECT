@@ -178,6 +178,4 @@ ISC
 ✅ Real-time analytics
 ✅ 20+ ready-to-use SQL queries
 
----
 
-**Your e-commerce platform is ready!** 🚀
